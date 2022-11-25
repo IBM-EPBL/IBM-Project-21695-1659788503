@@ -1,3 +1,3 @@
 A Novel Method for Handwritten Digit Recognition System project video link:
 
-https://drive.google.com/drive/folders/1zB1mhXmPwM6NnLD0Nl_XOlB69rnUgAdy?usp=share_link
+https://drive.google.com/file/d/1TbRjXCWncQemIHWyZSaZCUGT_QMPzd84/view?usp=drivesdk
